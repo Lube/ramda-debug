@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/sebinsua/ramda-look#readme",
   "dependencies": {
-    "@ccheever/crayon": "^5.0.0",
+    "crayon": "^5.0.0",
     "ramda": "^0.13.0",
     "text-hex": "0.0.0",
     "util-inspect": "^0.1.8"
