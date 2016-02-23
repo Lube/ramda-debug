@@ -5,7 +5,7 @@ var R = require('ramda');
 var inspect = require('util-inspect');
 
 var hex = require('text-hex');
-var crayon = require('@ccheever/crayon');
+var crayon = require('crayon');
 
 var utils = require('./utils');
 
